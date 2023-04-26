@@ -1,6 +1,7 @@
 #boton-pasaporaqui::before{
-    content: "Pasa por aqui>>";
+    content: "Pasa por encima>>";
     font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #boton-pasaporaqui:hover{
@@ -11,4 +12,5 @@
 .boton-hecho::after{
     content: "¡Hecho!";
     font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
