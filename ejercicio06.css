@@ -1,0 +1,14 @@
+#boton-pasaporaqui::before{
+    content: "Pasa por aqui>>";
+    font-size: xx-large;
+}
+
+#boton-pasaporaqui:hover{
+    color: white;
+    background-color: green;
+}
+
+.boton-hecho::after{
+    content: "¡Hecho!";
+    font-size: xx-large;
+}
