@@ -1,0 +1,11 @@
+.btn-modern:hover {
+    position: relative;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px 10px;
+    background-color: aqua;
+    color: white;
+    box-shadow:8px 10px 10px 1px rgba(0,0,0,0.5);
+    transform: translateY(-5px);
+    transition: background-color 0.4s;
+}
