@@ -1,0 +1,12 @@
+.col-sm{
+    background-color: cyan;
+}
+.col-md {
+    background-color: red;
+}
+.col-lg {
+    background-color: yellow;
+}
+.col-xl {
+    background-color: green;
+}
